@@ -18,14 +18,10 @@ students to recreate the IV curves at different illumination levels.
 
 Materials:
 
-- Shunt resistor:
-----> Info: Low resistance precision resistors used to measure AC or DC electrical currents by the voltage drop those currents create across the resistance. Sometimes called an ammeter shunt, it is a type of current sensor.
-- Load resistors:
-----> Info: A resistor selected for a specific purpose. For example, it you want to put a load on an audio amplifier made to drive an 8 ohm speaker to 50 watts, then your load resistor would be a 8 ohm 50 watt resistor. 
-- Multimeters:
-----> Info: A typical multimeter would include basic features such as the ability to measure voltage, current, and resistance. Analog multimeters use a microammeter whose pointer moves over a scale calibrated for all the different measurements that can be made. Digital multimeters (DMM, DVOM) display the measured value in numerals, and may also display a bar of a length proportional to the quantity being measured.
-- Terminal blocks:
-----> Info: A connector that allows more than one circuit to connect to another without a splice or physically joining the ends.
+- Shunt resistor - Low resistance precision resistors used to measure AC or DC electrical currents by the voltage drop those currents create across the resistance. Sometimes called an ammeter shunt, it is a type of current sensor.
+- Load resistors -A resistor selected for a specific purpose. For example, it you want to put a load on an audio amplifier made to drive an 8 ohm speaker to 50 watts, then your load resistor would be a 8 ohm 50 watt resistor. 
+- Multimeters - A typical multimeter would include basic features such as the ability to measure voltage, current, and resistance. Analog multimeters use a microammeter whose pointer moves over a scale calibrated for all the different measurements that can be made. Digital multimeters (DMM, DVOM) display the measured value in numerals, and may also display a bar of a length proportional to the quantity being measured.
+- Terminal blocks - A connector that allows more than one circuit to connect to another without a splice or physically joining the ends.
 
 
 ## Insolation datalogger
